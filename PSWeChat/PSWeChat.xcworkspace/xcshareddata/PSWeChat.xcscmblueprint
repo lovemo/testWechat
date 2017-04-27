@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BB059BDDA2A9E514B4A3AF8C3E60DACA7CDB7CA0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6D03BD326B296BE34E6E9E7BB49BD7E62E8C63F6" : 9223372036854775807,
+    "BB059BDDA2A9E514B4A3AF8C3E60DACA7CDB7CA0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EE10467E-34D2-4BC6-A066-CF5D79055969",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6D03BD326B296BE34E6E9E7BB49BD7E62E8C63F6" : "PSWeChat\/PSWeChat\/",
+    "BB059BDDA2A9E514B4A3AF8C3E60DACA7CDB7CA0" : "PSWeChat\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PSWeChat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PSWeChat.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PengSiSi\/PSWeChat.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D03BD326B296BE34E6E9E7BB49BD7E62E8C63F6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PengSiSi\/PSWeChat.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB059BDDA2A9E514B4A3AF8C3E60DACA7CDB7CA0"
+    }
+  ]
+}
